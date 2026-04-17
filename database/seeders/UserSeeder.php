@@ -23,7 +23,7 @@ class UserSeeder extends Seeder
                 'updated_at'        => now(),
             ],
             [
-                'npm'               => 1002,
+                'npm'               => 5520124052,
                 'username'          => 'superadmin',
                 'first_name'        => 'Super',
                 'last_name'         => 'Admin',
