@@ -12,7 +12,7 @@ class UserSeeder extends Seeder
     {
         DB::table('users')->insert([
             [
-                'npm'               => 1001,
+                'npm'               => 5520124052,
                 'username'          => 'admin',
                 'first_name'        => 'Admin',
                 'last_name'         => 'Utama',
